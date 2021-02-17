@@ -1,0 +1,2 @@
+# Quails
+Salmonella quails strains
